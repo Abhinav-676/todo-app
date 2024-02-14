@@ -3,4 +3,4 @@
 Install the npm dependencies before use.
 `npm install`
 
-live: 
+live: https://todo-app-7x6.pages.dev/
